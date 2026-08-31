@@ -1,3 +1,13 @@
+<div align="center">
+
+<img src="./profile-banner.png" width="100%">
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
 # 👋 Hi, I'm Muhammad Asadullah
 
 ### 💻 Web Developer | JavaScript Developer | Tech Enthusiast
