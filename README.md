@@ -14,8 +14,8 @@
 
 <div align="center">
 
-<img src="./<img width="2048" height="649" alt="Asad picture" src="https://github.com/user-attachments/assets/830e953e-3e66-4b86-a04b-d46d320c9cae" />
-.png" width="100%" alt="Muhammad Asadullah GitHub Banner">
+/<img width="2048" height="649" alt="Asad picture" src="https://github.com/user-attachments/assets/830e953e-3e66-4b86-a04b-d46d320c9cae" />
+
 
 </div>
 
