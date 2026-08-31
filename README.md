@@ -49,7 +49,7 @@ A weather application built using **HTML, CSS, and JavaScript**.
 * 📱 Responsive interface
 * 🔎 Search functionality
 
-🔗 **Repository:** [View Project](https://github.com/YOUR_GITHUB_USERNAME)
+🔗 **Repository:** [View Project](https://github.com/mhmdasadullah509-rgb/Weather-App)
 
 ---
 
@@ -67,7 +67,7 @@ A Quran reading application built using **HTML, CSS, and JavaScript**.
 * ⭐ Favorites
 * 🔖 Bookmarks
 
-🔗 **Repository:** [View Project](https://github.com/YOUR_GITHUB_USERNAME)
+🔗 **Repository:** [View Project](https://github.com/mhmdasadullah509-rgb/Quran-App)
 
 ---
 
