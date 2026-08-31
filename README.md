@@ -14,26 +14,19 @@
 
 <div align="center">
 
-/<img width="2048" height="649" alt="Asad picture" src="https://github.com/user-attachments/assets/830e953e-3e66-4b86-a04b-d46d320c9cae" />
+<img width="2048" height="649" alt="Asad picture" src="https://github.com/user-attachments/assets/830e953e-3e66-4b86-a04b-d46d320c9cae" />
 
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-# 👋 Hi, I'm Muhammad Asadullah
-
-### 💻 Web Developer | JavaScript Developer | Tech Enthusiast
-
-I'm a student and aspiring developer who enjoys building websites, web applications, and useful digital projects.
-
-I’m currently improving my skills in **HTML, CSS, JavaScript, Python, C++, Git, and GitHub** while building real-world projects.
 
 ---
 
 ## 🚀 About Me
+
+I'm a student and aspiring developer who enjoys building websites, web applications, and useful digital projects.
+
+I’m currently improving my skills in **HTML, CSS, JavaScript, Python, C++, Git, and GitHub** while building real-world projects.
 
 * 💻 I love building **web applications**
 * 🌱 Currently learning and improving my **programming & web development skills**
