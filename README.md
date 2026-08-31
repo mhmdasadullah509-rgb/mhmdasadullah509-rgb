@@ -74,27 +74,10 @@ A Quran reading application built using **HTML, CSS, and JavaScript**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
 
-    alt="Muhammad Asadullah's GitHub Stats"
-  />
+  <img src="https://streak-stats.demolab.com?user=mhmdasadullah509-rgb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </p>
-
-<p align="center">
-  <img
-   
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdasadullah509-rgb&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
----
-
 ## 🎯 My Goals
 
 ```text
