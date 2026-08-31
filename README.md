@@ -1,6 +1,21 @@
 <div align="center">
 
-<img src="./profile-banner.png" width="100%">
+# 👋 Hi, I'm Muhammad Asadullah
+
+### 💻 Web Developer | JavaScript Learner | Tech Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;I+love+building+web+applications;Always+Learning+%F0%9F%9A%80;Always+Building+%F0%9F%92%BB" alt="Typing SVG">
+
+</div>
+
+---
+
+<!-- ==================== BANNER ==================== -->
+
+<div align="center">
+
+<img src="./<img width="2048" height="649" alt="Asad picture" src="https://github.com/user-attachments/assets/830e953e-3e66-4b86-a04b-d46d320c9cae" />
+.png" width="100%" alt="Muhammad Asadullah GitHub Banner">
 
 </div>
 
