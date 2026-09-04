@@ -115,10 +115,11 @@ A Quran reading application built using **HTML, CSS, and JavaScript**.
 
 ```text
 HTML & CSS        ████████████████████ 100%
+C++               ██████████████████░░  90%
 JavaScript        ████████████████░░░░  80%
 Git & GitHub      ███████████████░░░░░  75%
-Python            ████████████░░░░░░░░  60%
-C++               ██████████░░░░░░░░░░  50%
+Python            ██████████████░░░░░░  70%
+
 ```
 
 ---
